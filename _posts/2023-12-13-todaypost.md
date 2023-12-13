@@ -29,11 +29,22 @@ title: "오늘의 첫 포스팅"
 
 자 이 코드를 읽어보세요:
 
-  function str{
-    console.log('와우');
-  }
+    function str{
+      console.log('와우');
+    }
 
 end code block.
+
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
 
 수평선
 * * *
