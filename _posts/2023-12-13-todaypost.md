@@ -57,4 +57,4 @@ public class BootSpringBootApplication {
 
 이미지 등록 방법
 ![Alt 아바타](/assets/images/characterStand1.png)
-<img src="/assets/images/characterStand1.png" width="450px" alt="아바타"></img>
+<img src="/assets/images/characterStand1.png" width="450px" alt="아바타">
