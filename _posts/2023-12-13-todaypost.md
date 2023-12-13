@@ -45,5 +45,5 @@ end code block.
 [Naver](http://naver.com)
 
 이미지 등록 방법
-[Alt 아바타](/assets/images/characterStand1.png)
+![Alt 아바타](/assets/images/characterStand1.png)
 <img src="/assets/images/characterStand1.png" width="450px" alt="아바타"></img>
